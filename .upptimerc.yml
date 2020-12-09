@@ -4,8 +4,17 @@ repo: monitor # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: FTRPRF BE
+  - name: Production - FTRPRF - API
     url: https://education.ftrprf.be/swagger-ui.html#/
+
+  - name: Production - FTRPRF - APP
+    url: https://schools.ftrprf.be/#/
+
+  - name: Production - STUDIO FTRPRF - APP
+    url: https://studio.ftrprf.be/
+
+  - name: Production - STUDIO CodeFever - APP
+    url: https://studio.codefever.be/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
