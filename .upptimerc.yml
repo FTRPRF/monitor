@@ -22,7 +22,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: FTRPRF monitor
   introTitle: "Uptime monitor and status page for FTRPRF"
   introMessage: ""
   navbar:
