@@ -1,22 +1,22 @@
 [
   {
     "name": "FTRPRF BE",
-    "url": "https://education.ftrprf.be",
+    "url": "https://education.ftrprf.be/swagger-ui.html#/",
     "icon": "https://favicons.githubusercontent.com/education.ftrprf.be",
     "slug": "ftrprf-be",
-    "status": "down",
-    "uptime": "16.80%",
-    "uptimeDay": "16.80%",
-    "uptimeWeek": "16.80%",
-    "uptimeMonth": "16.80%",
-    "uptimeYear": "16.80%",
-    "time": 833,
-    "timeDay": 833,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "status": "up",
+    "uptime": "7.53%",
+    "uptimeDay": "7.53%",
+    "uptimeWeek": "7.53%",
+    "uptimeMonth": "7.53%",
+    "uptimeYear": "7.53%",
+    "time": 720,
+    "timeDay": 720,
+    "timeWeek": 720,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 3
     }
   }
 ]
