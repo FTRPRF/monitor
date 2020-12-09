@@ -5,7 +5,7 @@ repo: monitor # Your Github repository name
 # Add your sites here
 sites:
   - name: FTRPRF BE
-    url: https://education.ftrprf.be
+    url: https://education.ftrprf.be/swagger-ui.html#/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
