@@ -16,6 +16,9 @@ sites:
   - name: Production - STUDIO CodeFever - APP
     url: https://studio.codefever.be/
 
+  - name: Test - FTRPRF - API
+    url: https://test-education.ftrprf.be/swagger-ui.html#/
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
