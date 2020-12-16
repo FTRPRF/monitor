@@ -1,7 +1,7 @@
 url: https://test-education.ftrprf.be/swagger-ui.html#/  
-status: up
-code: 200
-responseTime: 471
-lastUpdated: 2020-12-15T23:16:03.279Z
+status: down
+code: 502
+responseTime: 539
+lastUpdated: 2020-12-16T00:41:55.246Z
 startTime: Wed Dec 09 2020 11:58:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
